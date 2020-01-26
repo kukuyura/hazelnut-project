@@ -1,0 +1,3 @@
+0.1 - First closed beta-version
+0.1.1 - Bugs fixed (errors with brackets and spaces, start-up field, a bit improvement of speed)
+0.2 - added constants PI and E, bug with doubled minus fixed, speed improvement because of a new input system
